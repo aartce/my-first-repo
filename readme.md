@@ -1,26 +1,18 @@
-# This is a large heading
+# Aart Spek
 
-## And this is somewhat smaller.
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poets pen,
-etc.
+I live in the city of X, in the United Vilages of Aargh
 
-- This
-- is an
-- Unordened list
+### Reading
 
-1. And this
-2. is an
-3. Ordered list
+I don't like reading
 
-```
-And a block
-of code
-	kks
-```
+### Food
 
-here's [a link](https://www.wikipedia.nl)
+Yes - I do like food. 
+I especially like **processed** foods.
 
-###The end...
-The end.
+### Contact
+
+See me *live* on Sunday in church.
